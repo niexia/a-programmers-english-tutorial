@@ -2,7 +2,9 @@
 
 英语学习记录和指南。
 
-在一次性阅读完[A Programmer's Guide to English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)知乎，制定自己的学习策略，接下来会进行实践和不定期的总结。
+在一次性阅读完[A Programmer's Guide to English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)之后，制定自己的学习策略，接下来会进行实践和不定期的总结。
+
+如果有问题，可以直接在 github [a-programmers-english-tutorial](https://github.com/niexia/a-programmers-english-tutorial)进行编辑和讨论。
 
 ## 文档主要内容概要
 
